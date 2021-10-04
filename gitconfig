@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = dohnabenjamin@gmail.com
+	name = Benjamin Dohna
